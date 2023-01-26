@@ -48,8 +48,10 @@ div {
     background-color: #ff0000; 
     text-align: right; 
     margin-left: solid 50px; 
-    border-right: solid 5px; 
-    border-top: 2px; 
+    border-left: solid 5px; 
+    border-bottom: solid 2px; 
+    border-right: 0px; 
+    border-top: 0px; 
 }
 
 .blue {
