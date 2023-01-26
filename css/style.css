@@ -62,11 +62,7 @@ div {
     border-bottom: 0px;
 } 
 
-h2.blue {
-    color: #C4C4C4; 
-}
-
-p.blue {
+.blue p, .blue h2 {
     color: #C4C4C4;  
 }
 
@@ -80,7 +76,7 @@ p.blue {
     border-right: 0px; 
 }
 
-p.yellow {
+.yellow p {
     color: #707070;    
 }
 
